@@ -218,6 +218,11 @@
             overflow: hidden;
             cursor: pointer;
             text-decoration: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .banner-ad.hidden {
+            display: none;
         }
         
         .banner-ad:hover {
@@ -650,6 +655,27 @@
         renderList();
         setupBannerAd(); // Update banner for new day's films
     }
+
+    function handleScroll() {
+        const banner = document.getElementById('bannerAd');
+        const hero = document.querySelector('.hero-image');
+        
+        if (banner && hero) {
+            const bannerRect = banner.getBoundingClientRect();
+            const heroRect = hero.getBoundingClientRect();
+            
+            // Hide banner if scrolled past the hero image
+            if (window.scrollY > heroRect.bottom) {
+                banner.classList.add('hidden');
+            } else {
+                banner.classList.remove('hidden');
+            }
+        }
+    }
+
+    // Add scroll listener on load
+    window.addEventListener('scroll', handleScroll);
+    window.addEventListener('load', handleScroll);
 
     function setView(view) {
         currentView = view;
