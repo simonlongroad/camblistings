@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T17:20:02.712978",
+  "last_updated": "2026-11-09T04:13:21.493775",
   "location": "Cambridge, UK",
   "cinemas": [
     {
@@ -13,10 +13,13 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
+            "13:00",
             "14:00",
+            "15:30",
             "16:45",
-            "17:20",
-            "19:45"
+            "16:50",
+            "19:45",
+            "20:10"
           ],
           "format": "Standard",
           "day": "today",
@@ -27,18 +30,8 @@
           "rating": "15",
           "duration": "2h 15m",
           "showtimes": [
-            "19:10"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Ghosts: The Possession Of Button House",
-          "rating": "PG",
-          "duration": "1h 37m",
-          "showtimes": [
-            "17:10"
+            "13:00",
+            "20:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -49,18 +42,32 @@
           "rating": "15",
           "duration": "1h 57m",
           "showtimes": [
-            "19:40"
+            "14:20",
+            "17:00",
+            "19:15"
           ],
           "format": "Standard",
           "day": "today",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "George Michael: The Faith Tour",
-          "rating": "12A",
-          "duration": "1h 54m",
+          "title": "Ghosts: The Possession Of Button House",
+          "rating": "PG",
+          "duration": "1h 37m",
           "showtimes": [
-            "17:15"
+            "13:00",
+            "17:20"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Primetime",
+          "rating": "15",
+          "duration": "1h 50m",
+          "showtimes": [
+            "17:10"
           ],
           "format": "Standard",
           "day": "today",
@@ -71,6 +78,8 @@
           "rating": "12A",
           "duration": "2h 8m",
           "showtimes": [
+            "13:50",
+            "16:40",
             "19:30"
           ],
           "format": "Standard",
@@ -82,18 +91,8 @@
           "rating": "15",
           "duration": "2h 39m",
           "showtimes": [
+            "17:10",
             "19:00"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Primetime",
-          "rating": "15",
-          "duration": "1h 50m",
-          "showtimes": [
-            "19:45"
           ],
           "format": "Standard",
           "day": "today",
@@ -104,29 +103,7 @@
           "rating": "18",
           "duration": "1h 49m",
           "showtimes": [
-            "20:20"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Ramayana: Rise Of A Legend (Hindi)",
-          "rating": "12A",
-          "duration": "3h 30m",
-          "showtimes": [
-            "19:50"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Disco (Malayalam)",
-          "rating": "18",
-          "duration": "3h 5m",
-          "showtimes": [
-            "20:00"
+            "20:30"
           ],
           "format": "Standard",
           "day": "today",
@@ -144,6 +121,28 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "Traces Of Justice (Mandarin)",
+          "rating": "15",
+          "duration": "2h 21m",
+          "showtimes": [
+            "19:50"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Ramayana: Rise Of A Legend (Hindi)",
+          "rating": "12A",
+          "duration": "3h 30m",
+          "showtimes": [
+            "15:50"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Ramayana: Rise Of A Legend (Dubbed)",
           "rating": "12A",
           "duration": "2h 47m",
@@ -155,11 +154,11 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Traces Of Justice (Mandarin)",
-          "rating": "15",
-          "duration": "2h 21m",
+          "title": "Disco (Malayalam)",
+          "rating": "18",
+          "duration": "3h 5m",
           "showtimes": [
-            "19:50"
+            "15:15"
           ],
           "format": "Standard",
           "day": "today",
@@ -172,6 +171,28 @@
           "showtimes": [
             "14:10",
             "19:40"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Rocky (50Th Anniversary 4K Restoration)",
+          "rating": "12A",
+          "duration": "2h 1m",
+          "showtimes": [
+            "19:15"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Rbo Cinema Season 2026-27: Carmen",
+          "rating": "Unknown",
+          "duration": "3h 35m",
+          "showtimes": [
+            "19:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -191,21 +212,6 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Prima Facie",
-          "rating": "15",
-          "duration": "1h 50m",
-          "showtimes": [
-            "10:00",
-            "12:30",
-            "15:00",
-            "17:30",
-            "20:00"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
           "title": "Ebenezer",
           "rating": "12A",
           "duration": "1h 56m",
@@ -215,6 +221,21 @@
             "14:00",
             "16:45",
             "19:30"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Prima Facie",
+          "rating": "15",
+          "duration": "1h 50m",
+          "showtimes": [
+            "10:00",
+            "12:30",
+            "15:00",
+            "17:30",
+            "20:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -254,11 +275,11 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Raise The Red Lantern (35Th Anniversary)",
-          "rating": "12A",
-          "duration": "2h 5m",
+          "title": "Skyclimber: Scaling The Eiffel Tower",
+          "rating": "15",
+          "duration": "1h 10m",
           "showtimes": [
-            "19:30"
+            "20:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -280,63 +301,24 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "13:00",
-            "15:30",
-            "16:50",
-            "20:10"
+            "11:10",
+            "14:50",
+            "17:20",
+            "19:45"
           ],
           "format": "Standard",
           "day": "tomorrow",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Rocky (50Th Anniversary 4K Restoration)",
+          "title": "George Michael: The Faith Tour",
           "rating": "12A",
-          "duration": "2h 1m",
-          "showtimes": [
-            "19:15"
-          ],
-          "format": "Standard",
-          "day": "tomorrow",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Rbo Cinema Season 2026-27: Carmen",
-          "rating": "Unknown",
-          "duration": "3h 35m",
-          "showtimes": [
-            "19:00"
-          ],
-          "format": "Standard",
-          "day": "tomorrow",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Skyclimber: Scaling The Eiffel Tower",
-          "rating": "15",
-          "duration": "1h 10m",
+          "duration": "1h 54m",
           "showtimes": [
             "20:00"
           ],
           "format": "Standard",
           "day": "tomorrow",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Wicker",
-          "rating": "15",
-          "duration": "1h 45m",
-          "showtimes": [
-            "10:00",
-            "11:10",
-            "12:20",
-            "14:50",
-            "16:50",
-            "17:20",
-            "19:45"
-          ],
-          "format": "Standard",
-          "day": "wednesday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -347,7 +329,7 @@
             "12:10"
           ],
           "format": "Standard",
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -359,34 +341,7 @@
             "12:15"
           ],
           "format": "Standard",
-          "day": "wednesday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Rbo Cinema Season 2026-27: Carmen",
-          "rating": "Unknown",
-          "duration": "3h 35m",
-          "showtimes": [
-            "14:00",
-            "19:00"
-          ],
-          "format": "Standard",
-          "day": "wednesday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "How To Rob A Bank",
-          "rating": "15",
-          "duration": "2h 2m",
-          "showtimes": [
-            "15:45",
-            "17:15",
-            "18:30",
-            "20:15",
-            "21:15"
-          ],
-          "format": "Standard",
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -397,7 +352,7 @@
             "20:00"
           ],
           "format": "Standard",
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -413,7 +368,7 @@
             "20:00"
           ],
           "format": "Standard",
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -424,7 +379,7 @@
             "12:00"
           ],
           "format": "Standard",
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -437,6 +392,18 @@
             "14:50",
             "16:50",
             "19:45"
+          ],
+          "format": "Standard",
+          "day": "thursday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Rbo Cinema Season 2026-27: Carmen",
+          "rating": "Unknown",
+          "duration": "3h 35m",
+          "showtimes": [
+            "14:00",
+            "19:00"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -454,18 +421,16 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Prima Facie",
-          "rating": "15",
-          "duration": "1h 50m",
+          "title": "Ebenezer",
+          "rating": "12A",
+          "duration": "1h 56m",
           "showtimes": [
-            "10:00",
-            "12:15",
-            "12:30",
-            "14:45",
-            "15:00",
-            "17:15",
-            "17:30",
-            "20:00"
+            "10:10",
+            "11:10",
+            "11:15",
+            "14:00",
+            "16:45",
+            "19:30"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -480,6 +445,21 @@
           ],
           "format": "Standard",
           "day": "thursday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "How To Rob A Bank",
+          "rating": "15",
+          "duration": "2h 2m",
+          "showtimes": [
+            "15:45",
+            "17:15",
+            "18:30",
+            "20:15",
+            "21:15"
+          ],
+          "format": "Standard",
+          "day": "friday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -549,6 +529,17 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "Nasza Rewolucja",
+          "rating": "Unknown",
+          "duration": "2h 5m",
+          "showtimes": [
+            "20:15"
+          ],
+          "format": "Standard",
+          "day": "saturday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Bts World Tour 'Arirang' In Kaohsiung",
           "rating": "15",
           "duration": "3h 15m",
@@ -572,34 +563,11 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Nasza Rewolucja",
-          "rating": "Unknown",
-          "duration": "2h 5m",
-          "showtimes": [
-            "20:15"
-          ],
-          "format": "Standard",
-          "day": "saturday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
           "title": "Rbo Cinema Season 2026-27: Carmen",
           "rating": "Unknown",
           "duration": "3h 35m",
           "showtimes": [
             "14:00"
-          ],
-          "format": "Standard",
-          "day": "sunday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "How To Rob A Bank",
-          "rating": "15",
-          "duration": "2h 2m",
-          "showtimes": [
-            "18:30",
-            "21:15"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -617,6 +585,40 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "Giant \u2013 The Play",
+          "rating": "15",
+          "duration": "2h 16m",
+          "showtimes": [
+            "15:00",
+            "19:00"
+          ],
+          "format": "Standard",
+          "day": "sunday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "The Match",
+          "rating": "12A",
+          "duration": "1h 31m",
+          "showtimes": [
+            "13:00"
+          ],
+          "format": "Standard",
+          "day": "sunday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Focker-In-Law",
+          "rating": "Unknown",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:00"
+          ],
+          "format": "Standard",
+          "day": "sunday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "How To Rob A Bank",
           "rating": "15",
           "duration": "2h 2m",
@@ -628,6 +630,29 @@
           "format": "Standard",
           "day": "monday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Raise The Red Lantern (35Th Anniversary)",
+          "rating": "12A",
+          "duration": "2h 5m",
+          "showtimes": [
+            "19:30"
+          ],
+          "format": "Standard",
+          "day": "monday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "How To Rob A Bank",
+          "rating": "15",
+          "duration": "2h 2m",
+          "showtimes": [
+            "17:15",
+            "20:15"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         }
       ]
     },
@@ -638,11 +663,14 @@
       "url": "https://cambridge.thelight.co.uk/imax",
       "films": [
         {
-          "title": "George Michael: The Faith Tour",
-          "rating": "12A",
-          "duration": "1h 54m",
+          "title": "Godzilla Minus Zero (Subbed)",
+          "rating": "15",
+          "duration": "2h 15m",
           "showtimes": [
-            "17.15"
+            "13.00",
+            "14.00",
+            "17.00",
+            "20.00"
           ],
           "format": "Standard",
           "day": "today",
@@ -653,8 +681,7 @@
           "rating": "12A",
           "duration": "3h 30m",
           "showtimes": [
-            "15.50",
-            "19.50"
+            "15.50"
           ],
           "format": "Standard",
           "day": "today",
@@ -665,21 +692,9 @@
           "rating": "15",
           "duration": "2h 15m",
           "showtimes": [
-            "13.00",
-            "20.00"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
-          "title": "Godzilla Minus Zero (Subbed)",
-          "rating": "15",
-          "duration": "2h 15m",
-          "showtimes": [
+            "11.00",
             "14.00",
-            "17.00",
-            "20.00"
+            "17.00"
           ],
           "format": "Standard",
           "day": "tomorrow",
@@ -693,20 +708,7 @@
             "20.00"
           ],
           "format": "Standard",
-          "day": "wednesday",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
-          "title": "Godzilla Minus Zero (Subbed)",
-          "rating": "15",
-          "duration": "2h 15m",
-          "showtimes": [
-            "11.00",
-            "14.00",
-            "17.00"
-          ],
-          "format": "Standard",
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
@@ -791,110 +793,6 @@
           "rating": "15",
           "duration": "1h 58m",
           "showtimes": [
-            "17:45",
-            "20:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "I Play Rocky",
-          "rating": "12A",
-          "duration": "2h 8m",
-          "showtimes": [
-            "16:30",
-            "20:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "George Michael: The Faith Tour",
-          "rating": "12A",
-          "duration": "1h 54m",
-          "showtimes": [
-            "18:45"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Wicker",
-          "rating": "15",
-          "duration": "1h 45m",
-          "showtimes": [
-            "15:00",
-            "18:15"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Primetime",
-          "rating": "15",
-          "duration": "1h 49m",
-          "showtimes": [
-            "16:00",
-            "21:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Ghosts: The Possession Of Button House",
-          "rating": "PG",
-          "duration": "1h 37m",
-          "showtimes": [
-            "15:45"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Wildwood",
-          "rating": "12A",
-          "duration": "2h 11m",
-          "showtimes": [
-            "14:15"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "La Bola Negra",
-          "rating": "15",
-          "duration": "2h 40m",
-          "showtimes": [
-            "19:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Godzilla Minus Zero",
-          "rating": "15",
-          "duration": "2h 15m",
-          "showtimes": [
-            "21:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Throwback: Rocky (50Th Anniversary)",
-          "rating": "12A",
-          "duration": "1h 59m",
-          "showtimes": [
-            "17:15"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Wild Horse Nine",
-          "rating": "15",
-          "duration": "1h 58m",
-          "showtimes": [
             "09:45",
             "13:00",
             "16:00",
@@ -972,12 +870,32 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
+          "title": "Wildwood",
+          "rating": "12A",
+          "duration": "2h 11m",
+          "showtimes": [
+            "14:15"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
           "title": "La Bola Negra",
           "rating": "15",
           "duration": "2h 40m",
           "showtimes": [
             "12:00",
             "19:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Godzilla Minus Zero",
+          "rating": "15",
+          "duration": "2h 15m",
+          "showtimes": [
+            "21:00"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -1002,7 +920,7 @@
             "16:00",
             "20:15"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1015,7 +933,7 @@
             "17:15",
             "20:45"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1025,7 +943,7 @@
           "showtimes": [
             "13:45"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1037,7 +955,7 @@
             "14:40",
             "19:45"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1048,7 +966,7 @@
             "15:30",
             "21:30"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1059,7 +977,7 @@
             "09:15",
             "18:15"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1069,7 +987,7 @@
           "showtimes": [
             "12:00"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1079,7 +997,7 @@
           "showtimes": [
             "16:45"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1090,7 +1008,7 @@
             "11:15",
             "18:00"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1101,7 +1019,7 @@
             "15:00",
             "18:45"
           ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1114,7 +1032,7 @@
             "16:00",
             "20:00"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1127,7 +1045,7 @@
             "16:30",
             "20:30"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1137,7 +1055,7 @@
           "showtimes": [
             "17:15"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1149,7 +1067,7 @@
             "15:30",
             "18:50"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1160,7 +1078,7 @@
             "15:00",
             "21:30"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1172,7 +1090,7 @@
             "11:15",
             "17:45"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1182,7 +1100,7 @@
           "showtimes": [
             "14:15"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1193,7 +1111,7 @@
             "11:45",
             "19:30"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1203,7 +1121,7 @@
           "showtimes": [
             "21:00"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1213,7 +1131,7 @@
           "showtimes": [
             "12:15"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1223,7 +1141,7 @@
           "showtimes": [
             "18:15"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -1497,6 +1415,98 @@
           ],
           "day": "saturday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Wild Horse Nine",
+          "rating": "15",
+          "duration": "1h 58m",
+          "showtimes": [
+            "14:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "I Play Rocky",
+          "rating": "12A",
+          "duration": "2h 8m",
+          "showtimes": [
+            "19:15"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Ghosts: The Possession Of Button House",
+          "rating": "PG",
+          "duration": "1h 37m",
+          "showtimes": [
+            "12:00",
+            "17:15"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Wildwood",
+          "rating": "12A",
+          "duration": "2h 11m",
+          "showtimes": [
+            "12:45"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Ebenezer",
+          "rating": "12A",
+          "duration": "1h 56m",
+          "showtimes": [
+            "16:15",
+            "19:45"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "How To Rob A Bank",
+          "rating": "15",
+          "duration": "2h 1m",
+          "showtimes": [
+            "15:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Prima Facie",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Throwback: Almost Famous (25Th Anniversary)",
+          "rating": "15",
+          "duration": "2h 3m",
+          "showtimes": [
+            "20:15"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Toddler Club: Festive Fun With Peppa",
+          "rating": "U",
+          "duration": "1h 0m",
+          "showtimes": [
+            "09:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         }
       ]
     },
@@ -1507,61 +1517,11 @@
       "url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge",
       "films": [
         {
-          "title": "La Bola Negra",
-          "rating": "15",
-          "duration": "Unknown",
-          "showtimes": [
-            "14:00",
-            "19:45",
-            "19:50"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Primetime",
-          "rating": "15",
-          "duration": "Unknown",
-          "showtimes": [
-            "13:50",
-            "20:20",
-            "20:40"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Wicker",
-          "rating": "15",
-          "duration": "Unknown",
-          "showtimes": [
-            "11:30",
-            "16:20",
-            "18:10"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Wild Horse Nine",
-          "rating": "15",
-          "duration": "Unknown",
-          "showtimes": [
-            "12:30",
-            "15:20",
-            "17:10",
-            "17:15",
-            "20:15",
-            "20:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
           "title": "Fatherland",
           "rating": "12A",
           "duration": "Unknown",
           "showtimes": [
+            "10:50",
             "11:50"
           ],
           "day": "today",
@@ -1578,6 +1538,19 @@
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
+          "title": "La Bola Negra",
+          "rating": "15",
+          "duration": "Unknown",
+          "showtimes": [
+            "11:30",
+            "14:00",
+            "17:15",
+            "19:50"
+          ],
+          "day": "today",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
           "title": "Naza",
           "rating": "15",
           "duration": "Unknown",
@@ -1588,13 +1561,44 @@
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
-          "title": "Fatherland",
-          "rating": "12A",
+          "title": "Primetime",
+          "rating": "15",
           "duration": "Unknown",
           "showtimes": [
-            "10:50"
+            "13:50",
+            "14:45",
+            "18:00",
+            "20:40"
           ],
-          "day": "tomorrow",
+          "day": "today",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Wicker",
+          "rating": "15",
+          "duration": "Unknown",
+          "showtimes": [
+            "11:30",
+            "15:35",
+            "16:20"
+          ],
+          "day": "today",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Wild Horse Nine",
+          "rating": "15",
+          "duration": "Unknown",
+          "showtimes": [
+            "12:30",
+            "13:20",
+            "15:20",
+            "16:00",
+            "17:15",
+            "20:15",
+            "20:30"
+          ],
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1604,18 +1608,7 @@
           "showtimes": [
             "20:00"
           ],
-          "day": "tomorrow",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "La Bola Negra",
-          "rating": "15",
-          "duration": "Unknown",
-          "showtimes": [
-            "11:30",
-            "17:15"
-          ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1625,18 +1618,7 @@
           "showtimes": [
             "13:00"
           ],
-          "day": "tomorrow",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Primetime",
-          "rating": "15",
-          "duration": "Unknown",
-          "showtimes": [
-            "14:45",
-            "18:00"
-          ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1646,29 +1628,7 @@
           "showtimes": [
             "19:00"
           ],
-          "day": "tomorrow",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Wicker",
-          "rating": "15",
-          "duration": "Unknown",
-          "showtimes": [
-            "15:35"
-          ],
-          "day": "tomorrow",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Wild Horse Nine",
-          "rating": "15",
-          "duration": "Unknown",
-          "showtimes": [
-            "13:20",
-            "16:00",
-            "20:30"
-          ],
-          "day": "tomorrow",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1679,7 +1639,7 @@
             "10:30",
             "15:50"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1689,7 +1649,7 @@
           "showtimes": [
             "18:10"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1700,7 +1660,7 @@
             "12:30",
             "20:00"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1710,7 +1670,7 @@
           "showtimes": [
             "12:45"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1721,7 +1681,7 @@
             "15:40",
             "20:30"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1732,7 +1692,7 @@
             "13:20",
             "17:30"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1745,7 +1705,7 @@
             "18:00",
             "20:40"
           ],
-          "day": "wednesday",
+          "day": "tomorrow",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1881,7 +1841,7 @@
           "showtimes": [
             "18:00"
           ],
-          "day": "future",
+          "day": "tuesday",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -1891,7 +1851,7 @@
           "showtimes": [
             "13:00"
           ],
-          "day": "future",
+          "day": "tuesday",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -2171,6 +2131,36 @@
           "duration": "Unknown",
           "showtimes": [
             "19:30"
+          ],
+          "day": "future",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Met Opera Encore 2026-27: Samson Et Dalila",
+          "rating": null,
+          "duration": "Unknown",
+          "showtimes": [
+            "13:30"
+          ],
+          "day": "future",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Wildwood",
+          "rating": "12A",
+          "duration": "Unknown",
+          "showtimes": [
+            "20:15"
+          ],
+          "day": "future",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "You Were Never Lovelier",
+          "rating": null,
+          "duration": "Unknown",
+          "showtimes": [
+            "13:00"
           ],
           "day": "future",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
